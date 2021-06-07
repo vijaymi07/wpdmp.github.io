@@ -1,2 +1,0 @@
-# wpdmp.github.io
-web
